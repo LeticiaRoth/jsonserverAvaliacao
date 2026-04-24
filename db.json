@@ -1,0 +1,104 @@
+{
+  "perfumarias": [
+    {
+      "id": "1",
+      "nome": "Época Cosméticos",
+      "descricao": "Uma das maiores lojas de beleza do Brasil, com vasta curadoria de fragrâncias importadas.",
+      "fundadores": ["Família Milman"],
+      "imagem": "assets/images/epoca.png",
+      "servicos_principais": ["Consultoria de fragrâncias", "Entrega expressa", "Amostras grátis"],
+      "promocoes": "Até 60% OFF em perfumes selecionados com cupom de primeira compra."
+    },
+    {
+      "id": "2",
+      "nome": "Beleza na Web",
+      "descricao": "Plataforma completa que une conteúdo de especialistas com as melhores marcas de perfumes.",
+      "fundadores": ["Alexandre Serodio"],
+      "imagem": "assets/images/belezaWeb.png",
+      "servicos_principais": ["Clube de fidelidade", "Dicas de experts", "Kits exclusivos"],
+      "promocoes": "Brinde exclusivo em compras acima de R$ 299 das marcas luxo."
+    },
+    {
+      "id": "3",
+      "nome": "Sephora Brasil",
+      "descricao": "Referência mundial em produtos de beleza e perfumaria de alto luxo.",
+      "fundadores": ["Dominique Mandonnaud"],
+      "imagem": "assets/images/sephora.png",
+      "servicos_principais": ["Beauty Club", "Embalagem para presente", "Retirada em loja"],
+      "promocoes": "Ganhe pontos em dobro na compra de fragrâncias Dior."
+    },
+    {
+      "id": "4",
+      "nome": "O Boticário",
+      "descricao": "Marca brasileira icônica focada em perfumaria autoral e sustentabilidade.",
+      "fundadores": ["Miguel Krigsner"],
+      "imagem": "assets/images/boticario.jpg",
+      "servicos_principais": ["Refil de produtos", "Agendamento de consultoria", "Clube Viva"],
+      "promocoes": "Leve 3 e pague 2 em itens selecionados da linha Floratta."
+    },
+    {
+      "id": "5",
+      "nome": "Natura",
+      "descricao": "Casa de perfumaria do Brasil com fragrâncias baseadas na biodiversidade amazônica.",
+      "fundadores": ["Luiz Seabra", "Guilherme Leal", "Pedro Passos"],
+      "imagem": "assets/images/natura.png",
+      "servicos_principais": ["Venda por consultoria online", "Logística reversa", "Assinatura de produtos"],
+      "promocoes": "Frete grátis em toda a linha Essencial neste final de semana."
+    },
+    {
+      "id": "6",
+      "nome": "Rivoli Perfumaria",
+      "descricao": "Especialista em perfumaria de nicho e marcas europeias tradicionais.",
+      "fundadores": ["Família de origem francesa/brasileira"],
+      "imagem": "assets/images/rivoli.png",
+      "servicos_principais": ["Curadoria premium", "Atendimento personalizado", "Eventos VIP"],
+      "promocoes": "15% de desconto via PIX em toda a categoria de importados."
+    },
+    {
+      "id": "7",
+      "nome": "Sacks Perfumaria",
+      "descricao": "Pioneira no e-commerce de perfumes no Brasil, hoje parte do grupo Sephora.",
+      "fundadores": ["Carlos André Montenegro"],
+      "imagem": "assets/images/sacksPerfumaria.png",
+      "servicos_principais": ["Catálogo variado", "Newsletter de ofertas", "Garantia de originalidade"],
+      "promocoes": "Liquidação de estoque: Perfumes masculinos com 40% de desconto."
+    },
+    {
+      "id": "8",
+      "nome": "Parfum France",
+      "descricao": "Focada em trazer o melhor da perfumaria francesa com preços competitivos.",
+      "fundadores": ["Grupo Parfum France"],
+      "imagem": "assets/images/parfumFrance.png",
+      "servicos_principais": ["Importação direta", "Certificado de procedência", "Parcelamento facilitado"],
+      "promocoes": "Cupom FRANCIA10 para 10% OFF em marcas francesas."
+    },
+    {
+      "id": "9",
+      "nome": "Renner (Perfumaria)",
+      "descricao": "Vasta seleção de perfumes lifestyle e designers renomados no departamento de beleza.",
+      "fundadores": ["Antônio Jacob Renner"],
+      "imagem": "assets/images/renner.png",
+      "servicos_principais": ["Cartão Renner", "Provador virtual", "Clique e retire"],
+      "promocoes": "Acumule pontos no programa Alure em todas as fragrâncias."
+    },
+    {
+      "id": "10",
+      "nome": "Zattini",
+      "descricao": "E-commerce de moda que oferece uma seção robusta de perfumaria internacional.",
+      "fundadores": ["Marcio Kumruian (Netshoes)"],
+      "imagem": "assets/images/zattini.png",
+      "servicos_principais": ["Troca fácil", "Outlet de perfumes", "Entrega rápida"],
+      "promocoes": "Combos de perfumes de 100ml com preço promocional de outlet."
+    },
+    {
+      "id": "11",
+      "nome": "WePink",
+      "descricao": "Marca inovadora de Virgínia Fonseca, focada em perfumaria de alta fixação e fragrâncias marcantes.",
+      "fundadores": ["Virgínia Fonseca", "Samara Pink"],
+      "imagem": "assets/images/wepink.png",
+      "servicos_principais": ["Lives de vendas exclusivas", "Body Care integrado", "Fragrâncias premium"],
+      "promocoes": "Pink Friday: Compre um perfume e ganhe um Body Splash de brinde."
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
