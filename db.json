@@ -32,7 +32,7 @@
       "nome": "O Boticário",
       "descricao": "Marca brasileira icônica focada em perfumaria autoral e sustentabilidade.",
       "fundadores": ["Miguel Krigsner"],
-      "imagem": "assets/images/boticario.jpg",
+      "imagem": "assets/images/boticario.png",
       "servicos_principais": ["Refil de produtos", "Agendamento de consultoria", "Clube Viva"],
       "promocoes": "Leve 3 e pague 2 em itens selecionados da linha Floratta."
     },
